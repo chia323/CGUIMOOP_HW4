@@ -62,7 +62,7 @@ public class HW4 {
 		}while(hit);
 		if(player1.getTotalValue()>21 && player2.getTotalValue()>21){
 			System.out.println("Need another game");
-		}else if(player1.getTotalValue()<21&&player2.getTotalValue()>21){
+		}else if(player1.getTotalValue()=<21&&player2.getTotalValue()>21){
 			System.out.println(player1.get_name()+" wins the game");
 			player1.increase_chips(p1Bet);
 			player2.increase_chips(-p2Bet);
