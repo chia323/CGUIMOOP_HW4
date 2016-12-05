@@ -26,6 +26,7 @@ public class HW4 {
 			hit=player1.hit_me(); //this
 			if(hit){
 				player1Card.add(deck.getOneCard(true));
+				player1.setOneRoundCard(player1Card);
 				System.out.print("Hit! ");
 				System.out.println(player1.get_name()+"'s Cards now:");
 				for(Card c : player1Card){
@@ -46,6 +47,7 @@ public class HW4 {
 			hit=player2.hit_me(); //this
 			if(hit){
 				player2Card.add(deck.getOneCard(true));
+				player2.setOneRoundCard(player2Card);
 				System.out.print("Hit! ");
 				System.out.println(player2.get_name()+"'s Cards now:");
 				for(Card c : player2Card){
