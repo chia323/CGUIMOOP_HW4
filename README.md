@@ -1,10 +1,10 @@
-# CGUIMOOP_HW4
+# CGUIMJava2_HW4
 
 1.	點選作業連結
-2.	Clone GitHub repo到本機端資料夾CGUIMOOP_HW4
+2.	Clone GitHub repo到本機端資料夾CGUIMJava2_HW4
 3.	建立新的Java Project，命名為HW4
-4.	將HW3的 Card.java與Deck.java複製到CGUIMOOP_HW4，並拖拉到Java HW4 project中 （選link）
-5.	將CGUIMOOP_HW4的HW4.java拖拉到Java HW4 project中 （選link）
+4.	將HW3的 Card.java與Deck.java複製到CGUIMJava2_HW4，並拖拉到Java HW4 project中 （選link）
+5.	將CGUIMJava2_HW4的HW4.java拖拉到Java HW4 project中 （選link）
 6.	Card.java內容不變
 7.	Deck.java中，一共要有以下內容：
   - private ArrayList<Card> cards; (原有內容)
