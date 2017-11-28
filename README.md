@@ -1,6 +1,6 @@
 # CGUIMJava2_HW4
 
-1.	點選作業連結
+1.	點選作業[連結](https://classroom.github.com/a/EJ77TvWI) 
 2.	Clone GitHub repo到本機端資料夾CGUIMJava2_HW4
 3.	建立新的Java Project，命名為HW4
 4.	將HW3的 Card.java與Deck.java複製到CGUIMJava2_HW4，並拖拉到Java HW4 project中 （選link）
